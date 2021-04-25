@@ -16,12 +16,12 @@ Tricks
 </body>
 </html>
 ```
-Add this link in the html boilerplate file[](https://tailwindcss.com/docs/installation)
+- Add this link in the html boilerplate file[](https://tailwindcss.com/docs/installation)
 ```
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
 ```
 
-After adding file looks like:
+- After adding file looks like:
 
 ```
 <!DOCTYPE html>
@@ -38,3 +38,10 @@ After adding file looks like:
 </body>
 </html>
 ```
+
+- Then go to this link:
+
+[https://tailblocks.cc/](https://tailblocks.cc/)
+
+- And choose header, footer, sections and all what you need.
+- After that copy the code and paste in your file and edit it.
