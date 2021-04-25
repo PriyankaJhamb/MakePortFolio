@@ -45,3 +45,7 @@ Tricks
 
 - And choose header, footer, sections and all what you need.
 - After that copy the code and paste in your file and edit it.
+
+
+- For images size, one can use this site:
+[https://source.unsplash.com/](https://source.unsplash.com/)
