@@ -1,6 +1,7 @@
 # Web-Development
 
-Tricks
+## Tricks to make website in 5 minutes
+
 - First having simple html file:
 ```
 <!DOCTYPE html>
